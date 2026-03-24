@@ -10,4 +10,5 @@
 **Trading bots · Analytics · AI agents · DeFi · Tools · Everything**
 
 
-![alt text](G6N6PzcacAckYlk-1.jpg)
+![G6N6PzcacAckYlk](https://github.com/user-attachments/assets/8997790f-4e99-49bb-8a4b-ec66ce91c15a)
+
