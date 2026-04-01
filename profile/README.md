@@ -1,14 +1,13 @@
-# 🌐 **Polymarket Ecosystem Landscape**
+# 🌐 **pvp.trade organization**
 
-> Everyone saw **Google, Yahoo, UFC** join Polymarket.
-> Almost nobody realizes the ecosystem just hit **260+ projects**.
-
----
-
-### ⚡ The complete map
-
-**Trading bots · Analytics · AI agents · DeFi · Tools · Everything**
+> Level up your execution today with pro trading tools powered by Hyperdash
 
 
-![G6N6PzcacAckYlk](https://github.com/user-attachments/assets/8997790f-4e99-49bb-8a4b-ec66ce91c15a)
+We built the engine we wished existed.
 
+Advanced data analytics, global positioning, pro order types, liquidation alerts, and smart money tracking. All verified and fully audited onchain.
+
+Your edge, unleashed from the ground up. Welcome to Hyperdash.
+
+
+<img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/75ed62fc-5393-4a2f-88e2-1bfe071a7082" />
